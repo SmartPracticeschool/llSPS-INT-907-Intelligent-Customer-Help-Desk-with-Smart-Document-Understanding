@@ -15,6 +15,6 @@ Dialog in this interaction is coordinated by Watson Assistant.
 If the customer asks a technical question, it will be passed to Cloud Functions action.
 This action will further pass onto to Watson Discovery and return with appropriate solution.
 
-Project demonstration video link: https://youtu.be/-_JDEFqL2kY
+Project demonstration video link: https://youtu.be/9jtWeLkqQts
 
 UI Link for project: https://node-red-jtsdv.eu-gb.mybluemix.net/ui/
